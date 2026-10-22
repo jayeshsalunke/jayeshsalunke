@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "comment-funnel": {
+      "source": "Upload-Post/upload-post-comment-funnel",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "42644089e8e32df4042a8b3632b9cd049894092619a2da7fc1e2ee27d54bfcf6"
+    }
+  }
+}
